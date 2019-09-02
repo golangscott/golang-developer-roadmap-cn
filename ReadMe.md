@@ -2,14 +2,6 @@
 
 > 在 2019 成为一名 [Go](https://golang.org/) 开发者的路线图：
 
---------
-
-This RoadMap is Created by [Alikhll (Ali Khalili)](https://github.com/Alikhll)  and Translated by [BON](https://github.com/Quorafind), the original repositoriy is [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) .
-
-该路线图由 [Alikhll (Ali Khalili)](https://github.com/Alikhll)  制作，由 [BON](https://github.com/Quorafind) 翻译为中文。原仓库链接为： [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) 。
-
-该仓库遵守与原仓库相同的 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)** 协议。
-
 ------
 
 在下边有一个图表，如果你想要成为一名 Go 的开发者的话，里面记录了一条成长路线以及一些你也许可以用得上的库。这是我为每一个想要问我：”我该怎么才能成为 Go 的开发者？“的人而准备的。
